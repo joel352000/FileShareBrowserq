@@ -1,11 +1,10 @@
-# MuraPlugin
+# File Share Browser
 
-This is a starter plugin to jumpstart your next Mura CMS plugin.
+This is a starter plugin to start a simple file share explorer plugin.
 
 
 ## Tested With
-* [Mura CMS](http://www.getmura.com) Core Version 7.0+
-* [Adobe ColdFusion](http://www.adobe.com/coldfusion) 2016.0.02.299200
+* [Mura CMS](http://www.getmura.com) Core Version 7.0+0.02.299200
 * [Lucee](http://lucee.org) 5.0.0.254
 
 
